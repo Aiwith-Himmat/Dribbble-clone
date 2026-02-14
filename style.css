@@ -401,6 +401,7 @@ html , body {
 
 .footer-bottom-right{
     display: flex;
+    
     align-items: center;
     justify-content: center;
     /* background-color: aqua; */
